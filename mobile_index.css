@@ -1,0 +1,26 @@
+.nav-bar h1 a{
+    float: none;
+}
+.nav-bar ul, .nav-bar li{
+    float: none;
+}
+.nav-bar li{
+    padding: 5px;
+    border-bottom: 1px #444444 dotted;
+}
+.nav-bar li a{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.img-show{
+    display: none;
+}
+.container-1{
+    float: none;
+    width: 100%;
+    height: 450px;
+}
+.content-1, .content-2, .content-3{
+   float: none; 
+   width: 100%;
+}
